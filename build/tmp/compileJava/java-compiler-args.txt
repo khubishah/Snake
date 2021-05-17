@@ -1,0 +1,18 @@
+-source
+11
+-target
+11
+-d
+"/Users/Khubi/Documents/Fall2020/CS 349/kushah/a2/Snake/build/classes/java/main"
+-h
+"/Users/Khubi/Documents/Fall2020/CS 349/kushah/a2/Snake/build/generated/sources/headers/java/main"
+-g
+-sourcepath
+""
+-proc:none
+-s
+"/Users/Khubi/Documents/Fall2020/CS 349/kushah/a2/Snake/build/generated/sources/annotationProcessor/java/main"
+-XDuseUnsharedTable=true
+-classpath
+/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/11.0.2/23291af49fb53d2686c6995018775d19805247a2/javafx-fxml-11.0.2-mac.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/11.0.2/996371d2868035845572cdb19179dca2bfd1139f/javafx-controls-11.0.2-mac.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/11.0.2/4ab633cf1eea60f76e2ae9905aedac862da88b08/javafx-controls-11.0.2.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/11.0.2/183246bfc1704cced6bdda2e7ba1c368694f10bd/javafx-media-11.0.2-mac.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/11.0.2/c1d99ae5bc48e7173f4514a941d27d8f8c972c71/javafx-graphics-11.0.2-mac.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/11.0.2/e522eb4ea422eceeee207b1c266ba3db19b2343a/javafx-graphics-11.0.2.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/11.0.2/b774922e5da6a56afee221d1a288d179a1342aa9/javafx-base-11.0.2-mac.jar:/Users/Khubi/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/11.0.2/7fb2e4a8528ec9e434a9ac9ee98b39af79e6dcb8/javafx-base-11.0.2.jar
+"/Users/Khubi/Documents/Fall2020/CS 349/kushah/a2/Snake/src/main/java/ca/uwaterloo/cs349/Snake.java"
